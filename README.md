@@ -1,14 +1,14 @@
-# # 👋 Olá, eu sou Wesley Cauan!
+# 👋 Hello, I'm Wesley Cauan!
 
-### 💻 Desenvolvedor Full Stack Júnior | Engenheiro de Software
+### 💻 Junior Full Stack Developer | Software Engineer
 
-Sou um ** Desenvolvedor Full Stack Júnior** focado em desenvolvimento web. Crio projetos web modernos, responsivos e funcionais, buscando sempre escrever código organizado, desenvolver minhas habilidades e transformar ideias em soluções digitais.
+I am a **Junior Full Stack Developer** focused on web development. I build modern, responsive, and functional web projects, always aiming to write organized code, improve my skills, and turn ideas into digital solutions.
 
-🚀 Estou constantemente aprendendo novas tecnologias e construindo projetos para evoluir como desenvolvedor.
+🚀 I am constantly learning new technologies and building projects to grow as a developer.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ### 🎨 Frontend
 
@@ -34,23 +34,23 @@ Sou um ** Desenvolvedor Full Stack Júnior** focado em desenvolvimento web. Crio
 
 ---
 
-## 🚀 O que eu desenvolvo
+## 🚀 What I Develop
 
-- 🌐 Aplicações web modernas e responsivas.
-- ⚛️ Interfaces interativas com React e TypeScript.
-- 🔌 APIs e funcionalidades de backend com Node.js.
-- 🗄️ Aplicações integradas a bancos de dados PostgreSQL.
-- 🧩 Projetos full stack, conectando frontend, backend e banco de dados.
-
----
-
-## 📌 Objetivo profissional
-
-Meu objetivo é evoluir continuamente como engenheiro de software, desenvolver soluções eficientes e conquistar novas oportunidades na área de tecnologia, contribuindo com projetos reais e equipes de desenvolvimento.
+- 🌐 Modern and responsive web applications.
+- ⚛️ Interactive interfaces with React and TypeScript.
+- 🔌 APIs and backend features with Node.js.
+- 🗄️ Applications integrated with PostgreSQL databases.
+- 🧩 Full stack projects, connecting frontend, backend, and database.
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📌 Professional Goal
+
+My goal is to keep growing continuously as a software engineer, develop efficient solutions, and seize new opportunities in technology, contributing to real projects and development teams.
+
+---
+
+## 📫 Let’s Connect?
 
 <p align="left">
   <a href="https://github.com/wesleycauan-dev">
@@ -61,7 +61,6 @@ Meu objetivo é evoluir continuamente como engenheiro de software, desenvolver s
   </a>
 </p>
 
-⭐ _Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos._
-
+⭐ _Thank you for visiting my profile! Feel free to check out my projects._
 
 
