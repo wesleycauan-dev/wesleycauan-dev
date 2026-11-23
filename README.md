@@ -1,16 +1,16 @@
-# 👋 Hello, I'm Wesley Cauan!
+#  Hello, I'm Wesley Cauan!
 
-### 💻 Junior Full Stack Developer | Software Engineer
+### Full Stack Developer | Software Engineer
 
-I am a **Junior Full Stack Developer** focused on web development. I build modern, responsive, and functional web projects, always aiming to write organized code, improve my skills, and turn ideas into digital solutions.
+I am a **Software Engineer** focused on web development. I build modern, responsive, and functional web projects, always aiming to write organized code, improve my skills, and turn ideas into digital solutions.
 
-🚀 I am constantly learning new technologies and building projects to grow as a developer.
+ I am constantly learning new technologies and building projects to grow as a developer.
 
 ---
 
-## 🛠️ Technologies and Tools
+##  Technologies and Tools
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -24,7 +24,7 @@ I am a **Junior Full Stack Developer** focused on web development. I build moder
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
@@ -34,23 +34,23 @@ I am a **Junior Full Stack Developer** focused on web development. I build moder
 
 ---
 
-## 🚀 What I Develop
+##  What I Develop
 
-- 🌐 Modern and responsive web applications.
-- ⚛️ Interactive interfaces with React and TypeScript.
-- 🔌 APIs and backend features with Node.js.
-- 🗄️ Applications integrated with PostgreSQL databases.
-- 🧩 Full stack projects, connecting frontend, backend, and database.
+-  Modern and responsive web applications.
+-  Interactive interfaces with React and TypeScript.
+-  APIs and backend features with Node.js.
+-  Applications integrated with PostgreSQL databases.
+-  Full stack projects, connecting frontend, backend, and database.
 
 ---
 
-## 📌 Professional Goal
+##  Professional Goal
 
 My goal is to keep growing continuously as a software engineer, develop efficient solutions, and seize new opportunities in technology, contributing to real projects and development teams.
 
 ---
 
-## 📫 Let’s Connect?
+## Links
 
 <p align="left">
   <a href="https://github.com/wesleycauan-dev">
@@ -61,6 +61,6 @@ My goal is to keep growing continuously as a software engineer, develop efficien
   </a>
 </p>
 
-⭐ _Thank you for visiting my profile! Feel free to check out my projects._
+
 
 
